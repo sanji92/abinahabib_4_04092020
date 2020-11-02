@@ -4366,7 +4366,7 @@ tbody.collapse.in {
 .dropdown-menu>.disabled>a:hover {
     color: #777
 }
-
+/*
 .dropdown-menu>.disabled>a:focus,
 .dropdown-menu>.disabled>a:hover {
     text-decoration: none;
@@ -4375,7 +4375,7 @@ tbody.collapse.in {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
 }
-
+*/
 .open>.dropdown-menu {
     display: block
 }
